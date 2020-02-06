@@ -1,0 +1,3 @@
+selenium
+# helps with issues when chrome updates.
+chromedriver-binary

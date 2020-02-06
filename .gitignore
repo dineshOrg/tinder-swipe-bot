@@ -2,3 +2,9 @@ secrets.py
 venv
 .vscode
 __pycache__
+
+logs/parsed/*
+logs/raw_data/*
+webdrivers/*
+*.zip
+debug.log
