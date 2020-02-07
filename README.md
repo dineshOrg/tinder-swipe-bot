@@ -1,5 +1,7 @@
 Tinder bot
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PYJbxboOsk0/0.jpg)](https://www.youtube.com/watch?v=PYJbxboOsk0)
+
 - Use this bot at your own risk. This was created for educational purposes (learning how to work with selenium and handling data with python). It is not recommended to use as you run the risk of getting banned.
 - The bot will login to Tinder, and auto swipe for you.
 - By default the bot will dislike if the user has one or no images, no bio, no age, or the bio is less the 5 characters. These can be changed in the settings.py file.
