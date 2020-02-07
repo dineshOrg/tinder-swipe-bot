@@ -1,6 +1,6 @@
 Tinder bot
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PYJbxboOsk0/0.jpg)](https://www.youtube.com/watch?v=PYJbxboOsk0)
+[![Video showcasing the Tinder bot](https://img.youtube.com/vi/PYJbxboOsk0/0.jpg)](https://www.youtube.com/watch?v=PYJbxboOsk0)
 
 - Use this bot at your own risk. This was created for educational purposes (learning how to work with selenium and handling data with python). It is not recommended to use as you run the risk of getting banned.
 - The bot will login to Tinder, and auto swipe for you.
